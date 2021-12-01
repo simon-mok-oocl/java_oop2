@@ -50,8 +50,8 @@ and an `introduce` method.
     >My name is Tom. I am 21 years old. I am a Teacher. I don't teach Jerry.
 
 6. `Klass` has an `appendMember` method that accepts an instance of `Student` as parameter.
-    This means adding a student to the school class.
-    If the student does not join the class, when we call the `assignLeader` method 
+    Thist means adding a student to the school class.
+   If the student does not join he class, when we call the `assignLeader` method 
     the assignment will not succeed. The `assignLeader` method need to print the following sentence:
 
     >It is not one of us.
